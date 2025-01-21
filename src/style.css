@@ -1,0 +1,75 @@
+/* filepath: /c:/Users/Alex/Hub/School/Portfolio/src/style.css */
+:root{
+    --text: #f4ebfa;
+    --background: #060208;
+    --primary: #8c37be;
+    --secondary: #671e23;
+    --accent: #92512a;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: var(--text);
+}
+
+header{
+    background-color: var(--primary);
+    color: var(--text);
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1em;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+}
+
+header img#header-logo {
+    height: 8vh;
+    margin-right: 1em;
+}
+
+header nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+header nav ul li{
+    margin: 0 10px;
+    padding: 1em;
+    border-radius: 10px;
+    background-color: var(--primary);
+    transition: background-color 0.2s ease,
+                box-shadow 0.2s ease;
+}
+
+header nav ul li:hover{
+    background-color: var(--secondary);
+    box-shadow: var(--secondary) 0px 0px 20px;
+}
+
+body{
+    background-color: var(--background);
+    color: var(--text);
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    background-color: orange;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
