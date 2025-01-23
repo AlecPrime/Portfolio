@@ -1,0 +1,20 @@
+---
+title: Projects
+layout: layout.njk
+pagination:
+  data: collections.projects
+  size: 10
+  alias: projects
+---
+
+# My Projects
+
+{% for project in projects %}
+  <a href="{{ project.url }}" class="project-card">
+    <h2>{{ project.data.title }}</h2>
+    {% if project.data.image %}
+      <img src="{{ project.data.image }}" alt="{{ project.data.title }}">
+    {% endif %}
+    {{ project.templateContent }}
+  </a>
+{% endfor %}
