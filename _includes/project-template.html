@@ -1,0 +1,17 @@
+---
+layout: layout.html
+---
+
+<article class="project-page">
+  <h1 class="project-title">{{ title }}</h1>
+  
+  <div class="project-gallery">
+    {% for image in images %}
+      <img src="{{ image }}" alt="{{ title }} image {{ loop.index }}" class="project-image">
+    {% endfor %}
+  </div>
+
+  <div class="project-body">
+    {{ content }}
+  </div>
+</article>

@@ -1,20 +1,17 @@
 ---
 title: Projects
-layout: layout.njk
-pagination:
-  data: collections.projects
-  size: 10
-  alias: projects
+layout: layout.html
 ---
 
 # My Projects
 
-{% for project in projects %}
-  <a href="{{ project.url }}" class="project-card">
+{% for project in collections.projects %}
+  <div class="project-card">
     <h2>{{ project.data.title }}</h2>
-    {% if project.data.image %}
-      <img src="{{ project.data.image }}" alt="{{ project.data.title }}">
+    {% if project.data.images %}
+      <img src="{{ project.data.images[0] }}" alt="{{ project.data.title }}" class="project-image">
     {% endif %}
-    {{ project.templateContent }}
-  </a>
+    <p class="project-intro">{{ project.templateContent | split: '\n\n' | first }}</p>
+    <a href="{{ project.url }}" class="project-link">Read more →</a>
+  </div>
 {% endfor %}
