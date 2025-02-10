@@ -4,6 +4,7 @@
         "build": "npx @11ty/eleventy"
     },
     "dependencies": {
+        "lightgallery": "^2.8.2",
         "nunjucks": "^3.2.4"
     }
 }

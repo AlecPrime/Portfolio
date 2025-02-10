@@ -1,11 +1,22 @@
 ---
 title: "Project Two"
-tags: projects
+tags: projects 
 layout: project-template.html
 images:
   - "/assets/images/ThickLineSilhouette.svg"
-  - "/assets/images/MeCrouching copy.jpg"
+  - "/assets/images/MeCrouching.jpg"
+themes:
+  - teknologi
+  - elektronikk
+  - mikrokontroller
+  - Fusion 360
 ---
+
+Intro text
+
+<div class="split">
+
+![Image test](/assets/images/MeCrouching.jpg)
 
 This is my second project focusing on design and illustration.
 

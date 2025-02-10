@@ -3,15 +3,19 @@ title: Projects
 layout: layout.html
 ---
 
-# My Projects
+<div class="hero-section">
+  <div class="hero-content">
+    <h1>Mine Projekter</h1>
+  </div>
+</div>
 
 {% for project in collections.projects %}
-  <div class="project-card">
+  <div class="display-card">
     <h2>{{ project.data.title }}</h2>
     {% if project.data.images %}
       <img src="{{ project.data.images[0] }}" alt="{{ project.data.title }}" class="project-image">
     {% endif %}
-    <p class="project-intro">{{ project.templateContent | split: '\n\n' | first }}</p>
-    <a href="{{ project.url }}" class="project-link">Read more →</a>
+    <p class="display-intro">{{ project.templateContent | split: '<div class="split">' | first }}</p>
+    <a href="{{ project.url }}" class="display-link">Les mer →</a>
   </div>
 {% endfor %}

@@ -2,16 +2,28 @@
 layout: layout.html
 ---
 
-<article class="project-page">
-  <h1 class="project-title">{{ title }}</h1>
-  
-  <div class="project-gallery">
-    {% for image in images %}
-      <img src="{{ image }}" alt="{{ title }} image {{ loop.index }}" class="project-image">
-    {% endfor %}
-  </div>
+<article class="display-page">
+  <header class="display-header">
+    <h1 class="display-title">{{ title }}</h1>
+    {% if subtitle %}
+      <h2 class="display-subtitle">{{ subtitle }}</h2>
+    {% endif %}
+  </header>
 
-  <div class="project-body">
-    {{ content }}
-  </div>
+  <section class="display-content">
+    {% if themes %}
+    <div class="display-meta">
+        <div class="display-tags">
+          <span class="meta-label">Tags:</span>
+          {% for tag in themes %}
+            <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+    
+    <div class="display-body">
+      {{ content | split: '<div class="split">' | last }}
+    </div>
+  </section>
 </article>
