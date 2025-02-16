@@ -12,9 +12,6 @@ layout: layout.html
 {% for schoolPost in collections.school %}
   <div class="display-card">
     <h2>{{ schoolPost.data.title }}</h2>
-    {% if schoolPost.data.images %}
-      <img src="{{ schoolPost.data.images[0] }}" alt="{{ schoolPost.data.title }}" class="display-image">
-    {% endif %}
     <div class="display-intro hidden">
       {{ schoolPost.templateContent | split: '<div class="split">' | first }}
     </div>

@@ -2,28 +2,30 @@
 layout: layout.html
 ---
 
-<article class="display-page">
-  <header class="display-header">
-    <h1 class="display-title">{{ title }}</h1>
-    {% if subtitle %}
-      <h2 class="display-subtitle">{{ subtitle }}</h2>
-    {% endif %}
-  </header>
+<header class="display-header">
+  <h1 class="display-title">{{ title }}</h1>
+  {% if subtitle %}
+    <h2 class="display-subtitle">{{ subtitle }}</h2>
+  {% endif %}
+</header>
+{% if themes %}
+<div class="display-meta">
+    <div class="display-tags">
+      <span class="meta-label">Tags:</span>
+      {% for tag in themes %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+</div>
+{% endif %}
+<div class="content-box nonhover">
+  <article class="display-page">
 
-  <section class="display-content">
-    {% if themes %}
-    <div class="display-meta">
-        <div class="display-tags">
-          <span class="meta-label">Tags:</span>
-          {% for tag in themes %}
-            <span class="tag">{{ tag }}</span>
-          {% endfor %}
-        </div>
-    </div>
-    {% endif %}
-    
-    <div class="display-body">
-      {{ content | split: '<div class="split">' | last }}
-    </div>
-  </section>
-</article>
+    <section class="display-content">
+      
+      <div class="display-body">
+        {{ content | split: '<div class="split">' | last | replace: '<img', '<img class="project-image"' }}
+      </div>
+    </section>
+  </article>
+</div>
