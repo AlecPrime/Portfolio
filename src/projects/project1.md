@@ -21,8 +21,6 @@ Dette var mitt først prosjekt. Jeg brukte det til å lære hvordan Fusion 360 f
 
 <div class="text-section">
 
-## Inscryption boks
-
 I januar 2022 hadde jeg lyst til å lære å lage egne modeller, så en helg satt jeg meg ned og lastet ned Fusion 360.
 
 Siden det er lettest å lage noe når du har et problem å løse, brukte jeg muligheten til å lage en boks for noen kort jeg hadde laget fra et spill som heter Incryption.
@@ -39,28 +37,43 @@ Siden det er lettest å lage noe når du har et problem å løse, brukte jeg mul
 
 </div>
 
-<div class="spacer"></div>
+<div class="section-box">
 
-![Fusion 360 boks](/assets/images/Projects/InscryptionBox/InscryptionBoxFusion.png)
+<div class="text-section">
 
 Jeg brukte en [YouTube video](https://www.youtube.com/watch?v=KL1aj16ynf4) for å lære hvordan man brukte de grunnleggende verktæyene, men etter det har jeg for det meste lært ved å utforske funksjoner på egenhånd.
 
 Det var startpunktet mitt til hvordan jeg lærte å lage ting.
 
-<div class="bigspacer"></div>
+</div>
 
-## Bilde Galleri:
-
-<div class="side-by-side">
+<div class="image-section">
 
 ![Fusion 360 boks](/assets/images/Projects/InscryptionBox/InscryptionBoxFusion.png)
 
-![Printet boks](/assets/images/Projects/InscryptionBox/InscryptionBoxPrinted.jpg)
-
+</div>
 
 </div>
 
-<div class="side-by-side">
+## Bilde Galleri:
+
+<div class="section-box">
+
+<div class="image-section">
+
+![Fusion 360 boks](/assets/images/Projects/InscryptionBox/InscryptionBoxFusion.png)
+
+</div>
+
+<div class="image-section">
+
+![Printet boks](/assets/images/Projects/InscryptionBox/InscryptionBoxPrinted.jpg)
+
+</div>
+
+</div>
+
+<div class="section-box">
 
 ![Printet boks åpen](/assets/images/Projects/InscryptionBox/InscryptionBoxPrintedOpen.jpg)
 
