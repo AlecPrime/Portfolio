@@ -3,8 +3,9 @@ title: "Tidligere Skolegang"
 tags: school
 ---
 
+Ungdomskole og barneskole
 
-<button class="expand-button">Les mer</button>
+<button class="expand-button styled">Les mer</button>
 
 <div class="split">
 
@@ -34,4 +35,4 @@ tags: school
 
 
 
-<button class="expand-button">Les mindre</button>
+<button class="expand-button styled">Les mindre</button>

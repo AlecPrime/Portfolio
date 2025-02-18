@@ -28,7 +28,7 @@ tags: school
 
 <div class="spacer"></div>
 
-<button class="expand-button">Les mer</button>
+<button class="expand-button styled">Les mer</button>
 
 <div class="split">
 
@@ -68,4 +68,4 @@ Her fikk jeg også prøve jobb praksis der jeg jobbet hos Hapro før jul, og IKO
 
 <div class="spacer"></div>
 
-<button class="expand-button">Les mindre</button>
+<button class="expand-button styled">Les mindre</button>

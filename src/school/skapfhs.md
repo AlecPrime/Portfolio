@@ -22,7 +22,7 @@ tags: school
 
 <div class="spacer"></div>
 
-<button class="expand-button">Les mer</button>
+<button class="expand-button styled">Les mer</button>
 
 <div class="split">
 
@@ -67,4 +67,4 @@ Gjennom disse årene på SKAP har jeg funnet ut at jeg har det veldig gøy med �
 
 <div class="spacer"></div>
 
-<button class="expand-button">Les mindre</button>
+<button class="expand-button styled">Les mindre</button>
