@@ -24,31 +24,45 @@ body, html {
 
 h1 {
   font-size: 2em;
-  margin: .67em 0 
+  /* margin: .67em 0  */
 }
 
 h2 {
   font-size: 1.5em;
-  margin: .75em 0
+  /* margin: .75em 0 */
 }
 
 h3 {
   font-size: 1.17em;
-  margin: .83em 0
+  /* margin: .83em 0 */
 }
 
 h5 {
   font-size: .83em;
-  margin: 1.5em 0
+  /* margin: 1.5em 0 */
 }
 
 h6 {
   font-size: .75em;
-  margin: 1.67em 0
+  /* margin: 1.67em 0 */
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bolder
+}
+
+a {
+  color: var(--text);
+  font-weight: 700;
+  transition: all 0.3s ease;
+}
+
+a:visited {
+  color: var(--text);
+}
+
+.source:hover {
+  font-size: 1.1em;
 }
 
 .display-content.hidden {
@@ -100,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 .header-content {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 1rem;
+    padding: 0.5rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -124,11 +138,12 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
     padding: 20px;
     border-radius: 20px;
-    transition: background-color 0.3s ease;
+    transition: all 0.3s ease;
 }
 
 .nav-link:hover {
     background-color: var(--secondary);
+    padding: 30px;
 }
 
 .content {
@@ -143,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--secondary);
     padding: 0.75rem;
     border-radius: 15px;
-    margin: 2rem 0;
+    margin: 1rem 0;
     box-shadow: 20px 20px var(--accent);
     border: 1px solid rgba(255,255,255,0.1);
     transition: all 0.3s ease;
@@ -395,7 +410,7 @@ h1, h2, h3, h4, h5, h6 {
   background: linear-gradient(135deg, var(--primary), var(--accent));
   padding: 2rem;
   border-radius: 15px;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   text-align: center;
 }
 
@@ -450,7 +465,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .display-meta {
   background: var(--primary);
-  padding: 1rem;
+  padding: 0.5rem;
   border-radius: 8px;
   margin: 0.5rem 0;
 }
@@ -586,21 +601,6 @@ h1, h2, h3, h4, h5, h6 {
     max-width: 100%;
     border-radius: 50%;
     margin: 20px;
-}
-
-.side-by-side {
-    display: flex;
-    flex-direction: row;
-    gap: 2rem;
-}
-
-.side-by-side > * {
-    flex: 1;
-}
-
-.side-by-side img {
-    width: 100%;
-    height: auto;
 }
 
 .project-image {

@@ -24,7 +24,7 @@ layout: layout.html
     <section class="display-content">
       
       <div class="display-body">
-        {{ content | split: '<div class="split">' | last | replace: '<img', '<img class="project-image"' }}
+        {{ content | split: '<div class="split">' | last | replace: '<img', '<img class="project-image"' | replace: '<a', '<a class="source" target="_blank"' }}
       </div>
     </section>
   </article>
