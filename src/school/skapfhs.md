@@ -30,7 +30,7 @@ tags: school
 
 # SKAP Kreativ Folkehøgskole
 
-Etter jeg var ferdig med skolegang delen av IT yrkesfaget, hadde jeg lyst til å ha et år på folkehøyskole. Når jeg hadde bestemt meg for at det var det jeg hadde lyst til å gjøre, så så jeg etter skoler jeg syntes var interesange.  
+Etter jeg var ferdig med skolegang delen av IT yrkesfaget, hadde jeg lyst til å ha et år på folkehøyskole. Når jeg hadde bestemt meg for at det var det jeg hadde lyst til å gjøre, så jeg etter skoler jeg syntes var interesange.  
 Jeg visste at jeg ville gjøre noe kreativt, så når jeg søkte på "Kreativ Folkehøyskole", så var det ikke så rart at SKAP dukket opp.  
 Jeg leste mer om skolen og hva de hadde å tilby, og bestemte meg for at Oppfinner linjen var riktig for meg.
 
@@ -44,7 +44,7 @@ Jeg var en av tre elever på oppfinner linjen, så vi hadde linje sammen med tek
 
 Vi hadde mange projekter der jeg kunne lære noe nytt, og samtidig lage noe vi hadde lyst til. Som for eksempel det først projektet vi hadde som var **[lommelykt projektet](/projects/project1/)**.
 
-Når jeg kom til SKAP hadde jeg allerede to år erfaring med 3D printing og et og et halvt år med 3dmodelering, så jeg var ofte bortom andre og hjalp dem med deres projekter, og hadde det veldig gøy med det.
+Når jeg kom til SKAP hadde jeg allerede to år erfaring med 3D printing og et og et halvt år med 3D modelering, så jeg var ofte bortom andre og hjalp dem med deres projekter, og hadde det veldig gøy med det.
 
 <div class="spacer"></div>
 
