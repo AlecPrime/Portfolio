@@ -122,20 +122,36 @@ Resultatet ble ganske bra, og jeg er egentlig veldig fornøyd med det.
 
 ## Bilde galleri:
 
-<div class="side-by-side">
+<div class="section-box">
+
+<div class="image-section">
 
 ![Teller med kontroller](/assets/images/Projects/Counter/CounterDisplayWithController.jpg)
+
+</div>
+
+<div class="image-section">
 
 ![Teller åpen front](/assets/images/Projects/Counter/CounterDisplayOpen.jpg)
 
 </div>
 
+</div>
+
 ![Teller åpen bakside](/assets/images/Projects/Counter/CounterBackOpen.jpg)
 
-<div class="side-by-side">
+<div class="section-box">
+
+<div class="image-section">
 
 ![Åpen kontroller](/assets/images/Projects/Counter/ControllerOpen.jpg)
 
+</div>
+
+<div class="image-section">
+
 ![Dovetail kobling](/assets/images/Projects/Counter/DovetailJoint.jpg)
+
+</div>
 
 </div>
