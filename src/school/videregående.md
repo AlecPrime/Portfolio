@@ -15,20 +15,20 @@ tags: school
 
 <div class="spacer"></div>
 
-## IM - Infromasjonsteknologi og Medieproduksjon
+## IM - Informasjonsteknologi og Medieproduksjon
 
 ### August 2021 – juni 2022
 
 <div class="spacer"></div>
 
-## INF - Infromasjonsteknologi
+## INF - Informasjonsteknologi
 
 ### August 2022 – juni 2023
 
 
 <div class="spacer"></div>
 
-<button class="expand-button">Les mer</button>
+<button class="expand-button styled">Les mer</button>
 
 <div class="split">
 
@@ -47,7 +47,7 @@ Heldigvis hadde vi tilgang til en 3D printer gjennom et prosjekt, så jeg fikk l
 
 <div class="spacer"></div>
 
-## IM - Infromasjonsteknologi og Medieproduksjon
+## IM - Informasjonsteknologi og Medieproduksjon
 
 ### August 2021 – juni 2022
 
@@ -57,7 +57,7 @@ Dette året lærte jeg mye om informasjonsteknologi og ting som å lage nettside
 
 <div class="spacer"></div>
 
-## INF - Infromasjonsteknologi
+## INF - Informasjonsteknologi
 
 ### August 2022 – juni 2023
 
@@ -68,4 +68,4 @@ Her fikk jeg også prøve jobb praksis der jeg jobbet hos Hapro før jul, og IKO
 
 <div class="spacer"></div>
 
-<button class="expand-button">Les mindre</button>
+<button class="expand-button styled">Les mindre</button>
