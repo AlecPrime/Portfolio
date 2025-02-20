@@ -35,9 +35,9 @@ layout: layout.html
     <div class="display-card hover" data-themes="{{ project.data.themes | join: ' ' }}">
       <a href="{{ project.url }}" class="project-link">
         <h2>{{ project.data.title }}</h2>
-        {% if project.data.images %}
-          <img src="{{ project.data.images[0] }}" alt="{{ project.data.title }}" class="project-image">
-        {% endif %}
+        {% for theme in project.data.themes %}
+          <span class="themes">{{ theme }}</span>
+        {% endfor %}
         <p class="display-intro">{{ project.templateContent | split: '<div class="split">' | first }}</p>
         <a href="{{ project.url }}" class="display-link">Les mer →</a>
       </a>

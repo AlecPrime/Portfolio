@@ -4,6 +4,7 @@ tags: projects
 layout: project-template.html
 themes:
   - 3D-Printing
+  - 3D-Scanning
   - Elektronikk
   - Fusion360
 ---
@@ -130,13 +131,33 @@ Jeg designet også en versjon som kan henges opp på veggen.
 
 <div class="text-section">
 
-Det nyeste jeg har laget er en liten bokende med bilde av meg og søsknene mine, den har bryter for å skrus på og av, og et lite batteri som lades upp med usb c.
+Til jul laget jeg en liten bokende med bilde av meg og søsknene mine, den har bryter for å skrus på og av, og et lite batteri som lades upp med usb c.
 
 </div>
 
 <div class="image-section">
 
 ![Bok ende](/assets/images/Projects/Lithophane/ChristmasGift.gif)
+
+</div>
+
+</div>
+
+<div class="section-box">
+
+<div class="image-section">
+
+![Fotball lampe](/assets/images/Projects/Lithophane/FotballFront.jpg)
+
+</div>
+
+<div class="text-section">
+
+Jeg lagde også små lamper til vinnene min barert på dems personligheter, med et hyggelig bilde av oss sammen.
+
+Den ene vennen min fikk en fotball. og den andre fikk en 3d printet versjon av en heklet blekksprut som hun har laget flere av.
+
+Denne lampen bruker samme batteri pakke med bryter som blir brukt i [trådløs teller prosjektet](/projects/project2/), som får strøm fra to AAA batterier. Her blir strømmen sendt direkte til en LED diode.
 
 </div>
 
@@ -171,6 +192,40 @@ Det nyeste jeg har laget er en liten bokende med bilde av meg og søsknene mine,
 <div class="image-section">
 
 ![Katte lampe](/assets/images/Projects/Lithophane/CatLamp.jpeg)
+
+</div>
+
+</div>
+
+<div class="section-box">
+
+<div class="image-section">
+
+![Fotball lampe underside](/assets/images/Projects/Lithophane/FotballUnderside.jpg)
+
+</div>
+
+<div class="image-section">
+
+![Fotball lampe innside](/assets/images/Projects/Lithophane/FotballInside.jpg)
+
+</div>
+
+</div>
+
+<div class="section-box">
+
+<div class="image-section">
+
+![Heklet blekkspruk 3D scan](/assets/images/Projects/Lithophane/CrochetSquid.jpg)
+
+</div>
+
+<div class="image-section">
+
+![Helklet blekksprut design](/assets/images/Projects/Lithophane/CrochetSquidDesign.png)
+
+![Helklet blekksprut design delt](/assets/images/Projects/Lithophane/CrochetSquidDesignSplit.png)
 
 </div>
 

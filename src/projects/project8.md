@@ -1,69 +1,34 @@
 ---
-title: "TV hode"
+title: "Team Maudal kamera arm"
 tags: projects
 layout: project-template.html
 themes:
   - Elektronikk
   - Fusion360
   - Mikrokontroller
-  - Pågående
 ---
 
-![Fusion design av TV hode](/assets/images/Projects/TVHead/FrameFusion.png)
+![Jeg snakker med Daniel Maudal](/assets/images/Projects/TeamMaudal/MaudalTalking.jpg)
 
-Prosjekt der jeg har lyst til å lage et TV hode
+Prosjekt i samarbeid med Team Maudal der vi skulle lage rullestol bruker vennlige hjelpemidler/leker.
 
 <div class="split"></div>
 
-<div class="section-box">
-
-<div class="text-section">
-
-Jeg har et pågående prosjekt der jeg har lyst til å lage et TV hode som jeg kan ha på meg.
-
-Jeg ble inspirert til å lage det etter å ha sett på videoer som [Minbitt sin video](https://www.youtube.com/watch?v=yEIA7uc1x5s&t=383s) der hun lager et kult TV hode.
-
-</div>
-
-<div class="image-section">
-
-![Minbitt TV hode](/assets/images/Projects/TVHead/MinbittHead.png)
-
-</div>
-
-</div>
-
-<div class="section-box">
-
-<div class="image-section">
-
-![Fusion design av TV hode](/assets/images/Projects/TVHead/FrameFusion.png)
-
-</div>
-
-<div class="text-section">
-
-Jeg har laget selve TV hode flere ganger i fusion, men har ikke enda printet noe på grunn av at jeg vi få alle de elektroniske delene til å fungere sammen for å vite hva de trenger av fester slik at jeg kan implimentere det inn i modellen.
-
-</div>
-
-</div>
+![Team Maudal](/assets/images/Projects/TeamMaudal/TeamMaudal.jpg)
 
 <div class="section-box">
 
 <div class="text-section">
 
-Den elektroniske delen av prosjektet er en [64 x 64 led matrix](https://www.aliexpress.com/item/1005005720691780.html?spm=a2g0o.order_list.order_list_main.9.1ab01802UfTOCU) som skal brukes som skjermen. Den styres av en [ESP32-Trinity](https://www.makerfabs.com/esp32-trinity.html), som er en ESP32 mikrokontroller som er designet for å plugge inn i og kontrollere en led matrix skjerm.
-
-<div class="spacer"></div>
-
-Jeg har fått skjermen til å vise en gif jeg har laget på repeat. Planen er å få den til å vise et fjes, og endre ansiktsutrykk basert på enten en kontroller med knapper, eller en sensor av noe slag. Jeg har også lyst til å få den til å animere snakking når den plukker opp lyd fra [mikrofonen](https://www.aliexpress.com/item/1005004019287254.html?spm=a2g0o.order_detail.order_detail_item.2.219df19c4NbXtu) jeg skal installere, likt som i [Minbitt sin video](https://www.youtube.com/watch?v=yEIA7uc1x5s&t=383s).
+Daniel Maudal har en sjelden muskel sykdom som gjør musklene svakere, dette gjør at han er avhengig av rullestol og BPA(Brukerstyrt Personlig Assistent).
+Team Maudal går ut på å vise at uansett hvilke begrensninger man har, så kan man alltid leve livet til det fulle.  
+Daniel bruker sosiale medier som [Instagram](https://www.instagram.com/teammaudal/) og [TikTok](https://www.tiktok.com/@teammaudal) til å vise at livet handler ikke om hva man ikke kan gjøre, men hva man kan.
 
 </div>
 
 <div class="image-section">
 
-![Skjerm](/assets/images/Projects/TVHead/ScreenHeartbeat.jpg)
+![Jeg snakker med Daniel Maudal](/assets/images/Projects/TeamMaudal/MaudalTalking.jpg)
 
 </div>
 
@@ -73,15 +38,37 @@ Jeg har fått skjermen til å vise en gif jeg har laget på repeat. Planen er å
 
 <div class="image-section">
 
-![Xiao ESP32S3 Sense](/assets/images/Projects/TVHead/XiaoESP32S3Sense.jpg)
+![Kamera på armen](/assets/images/Projects/TeamMaudal/CamArmEnd.jpg)
 
 </div>
 
 <div class="text-section">
 
-Delen jeg har hatt mest trøbbel med er å kunne se noe mens jeg har hode på. Der har jeg kjøpt en [Seeed studio Xiao ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) som jeg skal bruke som kamera, og den skal sende en live feed fra kamera til en [Waveshare 1.28inch LCD module](https://www.waveshare.com/1.28inch-LCD-Module.htm).
+På skolen hadde teknologi og design en samarbeidoppgave med Team Maudal der vi fikk oppgaven å lage en prototype av rullestol bruker vennlige hjelpemidler/leker.
 
-Jeg har hatt mye trøbbel med å få Xiaoen til å kontrollere waveshare skjermen. Det er ganske mye dokumentasjon på hvordan få skjermen til å fungere med en vanlig ESP32, men siden Xiaoen har [få koblingspunkter og alle er miltifunksjonelle](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/#hardware-overview) så har det vært vanskelig å få den til å styre skjermen slik dokumentasjonen sier. Jeg har fått skjermen til å fungere med en arduino uno ved å følge [waveshare sin dokumentasjon](https://www.waveshare.com/wiki/1.28inch_LCD_Module) og [denne youtube videoen](https://dronebotworkshop.com/gc9a01/) av DroneBot Workshop.
+Min gruppe bestemte seg for at vi skulle lage en bruker styrt kamera arm, så Daniel selv kan kontrollere hva slaks bilder han har lyst til å ta ved bruk av telefonen of en joystick.
+
+Prototypen bruker en [Insta360 GO](https://www.insta360.com/product/insta360-go) som de allerede hadde, så vi designet en holder til den. Selve armen er en [selfie stick fra Clas Ohlson](https://www.clasohlson.com/no/Selfiestang-med-tripod-og-fjernutloser/p/Pr389480000) vi hadde liggende som vi har designet endefeste og holder i basen for rotasjon.
+
+![Base for selfie stick](/assets/images/Projects/TeamMaudal/HoldingMechanism.png)
+
+</div>
+
+</div>
+
+<div class="section-box">
+
+<div class="image-section">
+
+![Elektronikk for rotasjon](/assets/images/Projects/TeamMaudal/CamArmElectronics.jpg)
+
+</div>
+
+<div class="text-section">
+
+Elektronikken består av to små stepper motorer, en seeed studio xiao, og en joystick.
+
+Siden det er en prototype hadde vi ikke tid eller ressurser til å lage en justerbar teleskopisk arm slik som vi hadde ønsket i det faktiske produktet.
 
 </div>
 
