@@ -3,6 +3,7 @@ title: "Animatronisk øye boks"
 tags: projects
 layout: project-template.html
 themes:
+  - 3D-Printing
   - Elektronikk
   - Mikrokontroller
 ---
@@ -48,13 +49,17 @@ Jeg brukte modellen fra [Youtube videoen til James bruton](https://www.youtube.c
 Senere skulle vi ha hackaton på skolen, der hvor oppgaven var å lage et sosiale medier attraksjon som kunne være noe å ta bilde med og ble in turist attraksjon i mandal.
 
 Jeg hadde nylig laget Øyevind, så min gruppe tenkte å lage en ny boks som brukte en raspberry pi med camera for å få boksen sine øyne til å se på folkene som går fobi.  
-Det var en del vanskeligheter med 
+Det var en del vanskeligheter med å få raspberry pien til å fungere slik som det skulle, så til slutt etter 24 timer hadde vi en ny øye boks med fjeset til ordføreren av lindesnes kommune. Senere la jeg til muligheten å bevege øynene med bruk av en joystick.
+
+![Ordfører med en øyeboks av han](/assets/images/Projects/EyeBox/MayorBox.jpg)
 
 </div>
 
 <div class="image-section">
 
-![Øyvind øyeboks](/assets/images/Projects/EyeBox/OyvindBoxCloseup.jpg)
+![Gregor øyeboks med joystick](/assets/images/Projects/EyeBox/GregorBox.jpg)
+
+![Gregor øyeboks demonstrasjon](/assets/images/Projects/EyeBox/JoystickDemonstration.gif)
 
 </div>
 

@@ -42,8 +42,8 @@ tags: school
 
 ### August 2020 – juni 2021
 
-Jeg gikk på HASK i et år med plan om å bli barnehage lærer, men iløpet av året kjente jeg at det ikke var for meg.  
-Heldigvis hadde vi tilgang til en 3D printer gjennom et prosjekt, så jeg fikk lov til å leke litt med den, og gjennom det fikk jeg litt mer interesse for teknologi og 3D printing
+Jeg gikk på HASK i et år med plan om å bli barnehagelærer, men i løpet av året kjente jeg at det ikke var for meg.
+Heldigvis hadde vi tilgang til en 3D printer gjennom et prosjekt, så jeg fikk lov til å leke litt med den, og gjennom det fikk jeg litt mer interesse for teknologi og 3D printing.
 
 <div class="spacer"></div>
 
@@ -51,7 +51,7 @@ Heldigvis hadde vi tilgang til en 3D printer gjennom et prosjekt, så jeg fikk l
 
 ### August 2021 – juni 2022
 
-Jeg byttet til IM fordi det virket som en linje som var mye mer innen mitt interesse felt. I løpet av det året ble jeg enda mer engasjert for 3D printing og lage ting, og lærte meg Fusion 360 på fritiden. Jeg kjøpte etterhvert også egen 3D printer
+Jeg byttet til IM fordi det virket som en linje som var mye mer innen mitt interessefelt. I løpet av det året ble jeg enda mer engasjert for 3D printing og lage ting, og lærte meg Fusion 360 på fritiden. Jeg kjøpte etter hvert også egen 3D printer.
 
 Dette året lærte jeg mye om informasjonsteknologi og ting som å lage nettsider.
 
@@ -63,7 +63,7 @@ Dette året lærte jeg mye om informasjonsteknologi og ting som å lage nettside
 
 Jeg hadde mer interesse for informasjonsteknologi enn medie, så når linjene delte seg i andre året gikk jeg videre med INF. Her lærte jeg mer i dybden om utvikling og drift innenfor IT.
 
-Her fikk jeg også prøve jobb praksis der jeg jobbet hos Hapro før jul, og IKOMM etter jul. Der fikk jeg prove litt mer praktisk hvilket yrke jeg studerer for, og det var en veldig lærerik opplevelse.
+Her fikk jeg også prøve jobb praksis der jeg jobbet hos Hapro før jul, og IKOMM etter jul. Der fikk jeg prøve litt mer praktisk hvilket yrke jeg studerer for, og det var en veldig lærerik opplevelse.
 
 
 <div class="spacer"></div>

@@ -13,10 +13,10 @@ layout: layout.html
   <div class="display-card">
     <h2>{{ schoolPost.data.title }}</h2>
     <div class="display-intro hidden">
-      {{ schoolPost.templateContent | split: '<div class="split">' | first }}
+      {{ schoolPost.templateContent | replace: '<a', '<a class="source"'  | split: '<div class="split">' | first }}
     </div>
     <div class="display-content hidden">
-      {{ schoolPost.templateContent | split: '<div class="split">' | last }}
+      {{ schoolPost.templateContent | replace: '<a', '<a class="source"' | split: '<div class="split">' | last }}
     </div>
   </div>
 {% endfor %}

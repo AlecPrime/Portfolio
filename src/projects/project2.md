@@ -3,10 +3,10 @@ title: "Trådløs Teller"
 tags: projects 
 layout: project-template.html
 themes:
+  - 3D-Printing
   - Elektronikk
+  - Fusion360
   - Mikrokontroller
-  - Microbit
-  - Fusion 360
 ---
 
 ![Microbit trådløs teller](/assets/images/Projects/Counter/CounterDisplay.jpg)

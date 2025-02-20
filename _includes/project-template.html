@@ -13,7 +13,7 @@ layout: layout.html
     <div class="display-tags">
       <span class="meta-label">Tags:</span>
       {% for tag in themes %}
-        <span class="tag">{{ tag }}</span>
+        <a href="/projects/?theme={{ tag }}" class="tag">{{ tag }}</a>
       {% endfor %}
     </div>
 </div>

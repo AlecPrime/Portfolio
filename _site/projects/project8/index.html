@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV hode - Alex Wennemo Sandbekken</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="icon" type="image/x-icon" href="/assets/images/ThickLineSilhouette.svg">
+</head>
+<body>
+    <header class="site-header">
+        <div class="header-content">
+            <a href="/" class="logo-link">
+                <img src="/assets/images/ThickLineSilhouette.svg" alt="Site Logo" class="logo">
+            </a>
+            <button class="menu-toggle" aria-label="Toggle navigation">
+                <span class="hamburger"></span>
+                <span class="hamburger"></span>
+                <span class="hamburger"></span>
+            </button>
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="/" class="nav-link">Hjemmeside</a></li>
+                    <li class="nav-item"><a href="/projects/" class="nav-link">Prosjekter</a></li>
+                    <li class="nav-item"><a href="/school/" class="nav-link">Skole</a></li>
+                    <li class="nav-item"><a href="/contact/" class="nav-link">Kontakt</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <script src="/assets/js/mobile-menu.js"></script>
+    <main class="content">
+        
+<header class="display-header">
+  <h1 class="display-title">TV hode</h1>
+  
+</header>
+
+<div class="display-meta">
+    <div class="display-tags">
+      <span class="meta-label">Tags:</span>
+      
+        <a href="/projects/?theme=Elektronikk" class="tag">Elektronikk</a>
+      
+        <a href="/projects/?theme=Fusion360" class="tag">Fusion360</a>
+      
+        <a href="/projects/?theme=Mikrokontroller" class="tag">Mikrokontroller</a>
+      
+        <a href="/projects/?theme=Pågående" class="tag">Pågående</a>
+      
+    </div>
+</div>
+
+<div class="content-box nonhover">
+  <article class="display-page">
+
+    <section class="display-content">
+      
+      <div class="display-body">
+        </div>
+<div class="section-box">
+<div class="text-section">
+<p>Jeg har et pågående prosjekt der jeg har lyst til å lage et TV hode som jeg kan ha på meg.</p>
+<p>Jeg ble inspirert til å lage det etter å ha sett på videoer som <a class="source" target="_blank" href="https://www.youtube.com/watch?v=yEIA7uc1x5s&amp;t=383s">Minbitt sin video</a> der hun lager et kult TV hode.</p>
+</div>
+<div class="image-section">
+<p><img class="project-image" src="/assets/images/Projects/TVHead/MinbittHead.png" alt="Minbitt TV hode"></p>
+</div>
+</div>
+<div class="section-box">
+<div class="image-section">
+<p><img class="project-image" src="/assets/images/Projects/TVHead/FrameFusion.png" alt="Fusion design av TV hode"></p>
+</div>
+<div class="text-section">
+<p>Jeg har laget selve TV hode flere ganger i fusion, men har ikke enda printet noe på grunn av at jeg vi få alle de elektroniske delene til å fungere sammen for å vite hva de trenger av fester slik at jeg kan implimentere det inn i modellen.</p>
+</div>
+</div>
+<div class="section-box">
+<div class="text-section">
+<p>Den elektroniske delen av prosjektet er en <a class="source" target="_blank" href="https://www.aliexpress.com/item/1005005720691780.html?spm=a2g0o.order_list.order_list_main.9.1ab01802UfTOCU">64 x 64 led matrix</a> som skal brukes som skjermen. Den styres av en <a class="source" target="_blank" href="https://www.makerfabs.com/esp32-trinity.html">ESP32-Trinity</a>, som er en ESP32 mikrokontroller som er designet for å plugge inn i og kontrollere en led matrix skjerm.</p>
+<div class="spacer"></div>
+<p>Jeg har fått skjermen til å vise en gif jeg har laget på repeat. Planen er å få den til å vise et fjes, og endre ansiktsutrykk basert på enten en kontroller med knapper, eller en sensor av noe slag. Jeg har også lyst til å få den til å animere snakking når den plukker opp lyd fra <a class="source" target="_blank" href="https://www.aliexpress.com/item/1005004019287254.html?spm=a2g0o.order_detail.order_detail_item.2.219df19c4NbXtu">mikrofonen</a> jeg skal installere, likt som i <a class="source" target="_blank" href="https://www.youtube.com/watch?v=yEIA7uc1x5s&amp;t=383s">Minbitt sin video</a>.</p>
+</div>
+<div class="image-section">
+<p><img class="project-image" src="/assets/images/Projects/TVHead/ScreenHeartbeat.jpg" alt="Skjerm"></p>
+</div>
+</div>
+<div class="section-box">
+<div class="image-section">
+<p><img class="project-image" src="/assets/images/Projects/TVHead/XiaoESP32S3Sense.jpg" alt="Xiao ESP32S3 Sense"></p>
+</div>
+<div class="text-section">
+<p>Delen jeg har hatt mest trøbbel med er å kunne se noe mens jeg har hode på. Der har jeg kjøpt en <a class="source" target="_blank" href="https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html">Seeed studio Xiao ESP32S3 Sense</a> som jeg skal bruke som kamera, og den skal sende en live feed fra kamera til en <a class="source" target="_blank" href="https://www.waveshare.com/1.28inch-LCD-Module.htm">Waveshare 1.28inch LCD module</a>.</p>
+<p>Jeg har hatt mye trøbbel med å få Xiaoen til å kontrollere waveshare skjermen. Det er ganske mye dokumentasjon på hvordan få skjermen til å fungere med en vanlig ESP32, men siden Xiaoen har <a class="source" target="_blank" href="https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/#hardware-overview">få koblingspunkter og alle er miltifunksjonelle</a> så har det vært vanskelig å få den til å styre skjermen slik dokumentasjonen sier. Jeg har fått skjermen til å fungere med en arduino uno ved å følge <a class="source" target="_blank" href="https://www.waveshare.com/wiki/1.28inch_LCD_Module">waveshare sin dokumentasjon</a> og <a class="source" target="_blank" href="https://dronebotworkshop.com/gc9a01/">denne youtube videoen</a> av DroneBot Workshop.</p>
+</div>
+</div>
+      </div>
+    </section>
+  </article>
+</div>
+
+    </main>
+</body>
+</html>

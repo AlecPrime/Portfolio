@@ -3,8 +3,8 @@ title: "Inscryption Boks"
 tags: projects
 layout: project-template.html
 themes:
-  - 3D Modellering
-  - Fusion 360
+  - 3D-Printing
+  - Fusion360
 ---
 
 ![Ferdig malt Inscryption boks](/assets/images/Projects/InscryptionBox/InscryptionBoxPainted.jpg)

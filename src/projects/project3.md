@@ -3,9 +3,9 @@ title: "Lithophane lamper"
 tags: projects
 layout: project-template.html
 themes:
-  - 3D Modellering
-  - Fusion 360
-  - Elekronikk
+  - 3D-Printing
+  - Elektronikk
+  - Fusion360
 ---
 
 ![Lithophane lampe til foreldrene mine](/assets/images/Projects/Lithophane/ParentsLamp.jpg)
@@ -96,7 +96,7 @@ En annen ting jeg hadde lyst til å gjøre lettere er å ikke trenge fire M3 skr
 
 ## Enkelt bilde lampe
 
-Jeg har også laget en lampe med bare et bilde, den holder et 1:1 bilde, og er designet for å bruke en [Biltema lampeledning](https://www.biltema.no/bygg/elinstallasjoner/uttak/lampeledning-e14-2000040670).
+Jeg har også laget en lampe med bare et bilde, den holder et 1:1 bilde, og er designet for å bruke en [Biltema lampeledning](https://www.biltema.no/bygg/elinstallasjoner/uttak/lampeledning-e14-2000040670) fordi det var det jeg hadde liggende.
 
 ![Singel lampe](/assets/images/Projects/Lithophane/SingleLamp.jpg)
 
@@ -105,6 +105,38 @@ Jeg har også laget en lampe med bare et bilde, den holder et 1:1 bilde, og er d
 <div class="image-section">
 
 ![Singel lampe fusion design](/assets/images/Projects/Lithophane/SingleLampFusion.png)
+
+</div>
+
+</div>
+
+<div class="section-box">
+
+<div class="image-section">
+
+![Vegg festet lampe](/assets/images/Projects/Lithophane/WallLamp.png)
+
+</div>
+
+<div class="text-section">
+
+Jeg designet også en versjon som kan henges opp på veggen.
+
+</div>
+
+</div>
+
+<div class="section-box">
+
+<div class="text-section">
+
+Det nyeste jeg har laget er en liten bokende med bilde av meg og søsknene mine, den har bryter for å skrus på og av, og et lite batteri som lades upp med usb c.
+
+</div>
+
+<div class="image-section">
+
+![Bok ende](/assets/images/Projects/Lithophane/ChristmasGift.gif)
 
 </div>
 

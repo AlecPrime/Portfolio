@@ -489,8 +489,11 @@ a:visited {
   color: var(--text);
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
+  border: none;
   font-size: 0.85rem;
-  transition: all 0.2s ease;
+  transition: all 0.4s ease;
+  text-decoration: none;
+  font-weight: 400;
 }
 
 .tag:hover {
@@ -638,4 +641,11 @@ a:visited {
 .project-link {
   font-weight: normal;
   text-decoration: none;
+}
+
+.tag-button.selected {
+  background: linear-gradient(to bottom, var(--secondary), var(--accent));
+  transform: translateY(-2px);
+  padding: 0.55rem 1rem;
+  font-weight: 700;
 }
