@@ -10,7 +10,7 @@ themes:
 
 ![Strikkbil](/assets/images/Projects/RubberbandCar/GregorCarFront.jpg)
 
-Et annet prosjekt vi har hatt er å lage en strikkbil.
+Her var oppgaven å lage en bil som bruker en gummistrikk som motorkraft.
 
 <div class="split"></div>
 
@@ -18,9 +18,9 @@ Et annet prosjekt vi har hatt er å lage en strikkbil.
 
 <div class="text-section">
 
-Vi har hatt et kort prosjekt der vi lagde strikk biler, så jeg hadde ideen av å gjøre om en av veilederne mine til å være bilen.
+Vi har hatt et kort prosjekt der vi lagde strikkbiler. Jeg fikk ideen om å 3D scanne veilederen min, og plassere han på bilen.
 
-Jeg brukte en app som heter Luma AI for å scanne han, og fikk senere laste ned 3d modellen når appen var ferdig.
+Jeg brukte en app som heter Luma AI for å scanne han, og fikk senere laste ned 3D modellen når appen var ferdig.
 
 ![Gregor scan](/assets/images/Projects/RubberbandCar/GregorScanRight.jpg)
 
@@ -44,9 +44,9 @@ Jeg brukte en app som heter Luma AI for å scanne han, og fikk senere laste ned 
 
 <div class="text-section">
 
-Når jeg designet strikk bilen designet jeg den originalt til å bruke gir til å få mer hastighet og lengde, men jeg merket at det ble for stor kraft og for mye friksjon.
+Da jeg designet strikkbilen designet jeg den originalt til å bruke gir til å få mer hastighet og lengde, men jeg merket at det ble for stor kraft og for mye friksjon.
 
-Jeg endret designet til å i stedet bare ha flere slots for å kunne justere avstanden fra der strikken holdes fast og punktet som blir surret rundt bakaksen.
+Jeg endret designet til heller å ha flere posisjoner for å kunne justere avstanden fra der strikken holdes fast og punktet som blir surret rundt bakaksen.
 
 ![Final design](/assets/images/Projects/RubberbandCar/FinalDesign.png)
 

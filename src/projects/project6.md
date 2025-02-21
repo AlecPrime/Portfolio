@@ -11,7 +11,7 @@ themes:
 
 ![Otto på premie plattform](/assets/images/Projects/OttoRemix/OttoOnPedistal.jpg)
 
-Vi har også jobbet med Otto DIY og redesignet vår egen versjon av Otto roboten.
+Jeg jobbet med Otto DIY og designet vår egen remix av Otto roboten.
 
 <div class="split"></div>
 
@@ -19,9 +19,9 @@ Vi har også jobbet med Otto DIY og redesignet vår egen versjon av Otto roboten
 
 <div class="text-section">
 
-Vi har også jobbet med Otto DIY på skolen, som er designet til å være en introduksjon til arduino og styring av servoer gjennom mikrokontrollere.
+Vi har jobbet med Otto DIY på skolen, som er designet til å være en introduksjon til arduino og styring av servoer gjennom mikrokontrollere.
 
-Dette er en vanlig Otto robot som vi lagde først, og som er utgangspunktet til vår egen remix.
+Bildet er av en vanlig Otto robot som vi lagde ved bruk av et byggesett vi fikk utdelt. Deretter brukte vi robotene som utganspunkt for vidreutvikling på hver vår måte.
 
 </div>
 
@@ -45,8 +45,7 @@ Dette er en vanlig Otto robot som vi lagde først, og som er utgangspunktet til 
 
 <div class="text-section">
 
-Min remix ble en edderkopp aktig robot inspirert av [strandbeest mekanismen](https://www.youtube.com/watch?v=NM4q-f68TlY) som den bruker til å gå.
-Jeg fikk proporsjonene litt feil så den går ikke rett frem og dytter litt for mye på hvert bein, men den er fortsatt fasinerende å se på.
+Min remix ble en edderkopp aktig robot. Den er inspirert av [strandbeest mekanismen](https://www.youtube.com/watch?v=NM4q-f68TlY) og bruker mekanismen til å gå.
 
 ![Gå demonstrasjon](/assets/images/Projects/OttoRemix/SpiderOtto.gif)
 
@@ -58,9 +57,9 @@ Jeg fikk proporsjonene litt feil så den går ikke rett frem og dytter litt for 
 
 <div class="text-section">
 
-Når vi var ferdig med prosjektet viste vi frem ottorobotene som klassen hadde laget til skaperen av Otto DIY, og han valgte sin favoritt.
+Da vi var ferdig med prosjektet viste vi frem ottorobotene til skaperen av Otto DIY, og han valgte sin favoritt.
 
-Han valgte min, og sa det var fordi han har tidligere prødt å gjøre noe likt, uten å få det helt til.
+Han valgte min, og sa det var fordi han tidligere hadde prøvd å lage noe lignende, uten å få det til.
 
 </div>
 

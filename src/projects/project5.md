@@ -24,7 +24,7 @@ Som en del av skolegangen på SKAP har vi hatt lommelyktprosjekt. Vi designer og
 Første året lagde jeg en lommelykt som ser ut som en pistol.
 Vi fikk komponenter fra skolen, og brukte de til å designe og lage skjellet rundt.
 
-Elektronikken består av en knapp, et batteri, en LED driver, og LED lys.
+Elektronikken består av en knapp, et batteri, en LED driver og LED lys.
 
 ![Pistol modellen i fusion](/assets/images/Projects/Flashlight/GunFusion.png)
 
@@ -68,8 +68,8 @@ Elektronikken består av en knapp, et batteri, en LED driver, og LED lys.
 
 <div class="text-section">
 
-Andre året hadde jeg lyst til å lage noe litt annerledes, så jeg lagde en lommelykt inspirert av lindesnes fyr.
-Jeg ville ha muligheten til å styre hvor lyset peker, så jeg plasserte lyset slik at det pekte rett opp i et speil, så brukte jeg en 360° servo til å rotere et speil vinklet 45°.
+Andre året hadde jeg lyst til å lage noe litt annerledes, så jeg lagde en lommelykt inspirert av Lindesnes fyr.
+Jeg ville ha muligheten til å styre hvor lyset peker, og plasserte lyset slik at det pekte rett opp i et speil. Jeg brukte en 360° servo til å rotere speilet som var vinklet 45°.
 
 ![Servo av fyrlommelykten](/assets/images/Projects/Flashlight/LighthouseRotationModule.jpg)
 
@@ -87,7 +87,7 @@ Jeg ville ha muligheten til å styre hvor lyset peker, så jeg plasserte lyset s
 
 <div class="text-section">
 
-I denne brukte jeg en seeed studio xiao mikrokontroller til å ta styringen fra joysticken til å bli rotasjon for servoen. Jeg bruker også knappen innebygd i joysticken til å styre et rele som gir lyset strøm.
+I denne lykten brukte jeg en seeed studio xiao mikrokontroller til å ta styringen fra joysticken til å bli rotasjon for servoen. Jeg brukte også knappen innebygd i joysticken til å styre et rele som gir lyset strøm.
 
 ![Setter sammen fyret](/assets/images/Projects/Flashlight/LighthouseAssembly.jpg)
 

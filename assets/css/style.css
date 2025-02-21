@@ -661,8 +661,9 @@ font-weight: 700;
 }
 
 .themes {
+  flex: 1;
 background-color: var(--primary);
-margin-top: 1rem;
-padding: 0.3rem .7rem;
+margin: 1rem 0.25rem;
+padding: 0.3rem 0.75rem;
 border-radius: 1rem;
 }

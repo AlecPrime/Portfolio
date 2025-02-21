@@ -51,9 +51,9 @@ Heldigvis hadde vi tilgang til en 3D printer gjennom et prosjekt, så jeg fikk l
 
 ### August 2021 – juni 2022
 
-Jeg byttet til IM fordi det virket som en linje som var mye mer innen mitt interessefelt. I løpet av det året ble jeg enda mer engasjert for 3D printing og lage ting, og lærte meg Fusion 360 på fritiden. Jeg kjøpte etter hvert også egen 3D printer.
+Det neste året byttet jeg til IM fordi det virket som en linje som var mye mer innen mitt interessefelt. I løpet av det året ble jeg enda mer engasjert for 3D printing og lage ting, og lærte meg Fusion 360 på fritiden. Jeg kjøpte etter hvert også egen 3D printer.
 
-Dette året lærte jeg mye om informasjonsteknologi og ting som å lage nettsider.
+Dette året lærte jeg mye om informasjonsteknologi og ferdigheter som å lage nettsider.
 
 <div class="spacer"></div>
 
@@ -61,9 +61,9 @@ Dette året lærte jeg mye om informasjonsteknologi og ting som å lage nettside
 
 ### August 2022 – juni 2023
 
-Jeg hadde mer interesse for informasjonsteknologi enn medie, så når linjene delte seg i andre året gikk jeg videre med INF. Her lærte jeg mer i dybden om utvikling og drift innenfor IT.
+Jeg hadde mer interesse for informasjonsteknologi enn medie, så når linjene delte seg i andre året gikk jeg videre med INF. Der lærte jeg mer i dybden om utvikling og drift innenfor IT.
 
-Her fikk jeg også prøve jobb praksis der jeg jobbet hos Hapro før jul, og IKOMM etter jul. Der fikk jeg prøve litt mer praktisk hvilket yrke jeg studerer for, og det var en veldig lærerik opplevelse.
+Jeg også prøve meg i arbeidslivet gjennom praksis i bedrifter, hvor jeg jobbet hos Hapro før jul, og IKOMM etter jul. Da fikk jeg prøve litt mer praktisk hvilket yrke jeg studerer for, og det var en veldig lærerik opplevelse.
 
 
 <div class="spacer"></div>
