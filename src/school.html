@@ -10,7 +10,7 @@ layout: layout.html
 </div>
 
 {% for schoolPost in collections.school %}
-  <div class="display-card">
+  <div class="display-card hover">
     <h2>{{ schoolPost.data.title }}</h2>
     <div class="display-intro hidden">
       {{ schoolPost.templateContent | replace: '<a', '<a class="source"'  | split: '<div class="split">' | first }}

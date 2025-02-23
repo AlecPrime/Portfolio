@@ -3,7 +3,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets");
 
     eleventyConfig.addCollection("school", function(collectionApi) {
-      const order = ["skapfhs", "videregående", "tidligereskolegang"];
+      const order = ["skapfhs", "videregaende", "tidligereskolegang"];
       return collectionApi.getFilteredByGlob("src/school/*.md").sort(function(a, b) {
         return order.indexOf(a.fileSlug) - order.indexOf(b.fileSlug);
       });

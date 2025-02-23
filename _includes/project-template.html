@@ -3,10 +3,8 @@ layout: layout.html
 ---
 
 <header class="display-header">
+  <a href="/projects/" class="back-button">&larr; Back to Projects</a>
   <h1 class="display-title">{{ title }}</h1>
-  {% if subtitle %}
-    <h2 class="display-subtitle">{{ subtitle }}</h2>
-  {% endif %}
 </header>
 {% if themes %}
 <div class="display-meta">
@@ -28,4 +26,7 @@ layout: layout.html
       </div>
     </section>
   </article>
+  <div class="bottom-back">
+    <a href="/projects/" class="back-button">&larr; Back to Projects</a>
+  </div>
 </div>

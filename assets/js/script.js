@@ -12,8 +12,25 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 
+const schoolCards = document.querySelectorAll('.display-card');
+
+schoolCards.forEach(card => {
+  card.addEventListener('click', (e) => {
+    // Don't trigger if clicking directly on the button
+    if (e.target.classList.contains('expand-button')) return;
+    if (e.target.classList.contains('source')) return;
+    
+    const schoolContent = card.querySelector('.display-content');
+    const schoolIntro = card.querySelector('.display-intro');
+    schoolContent.classList.toggle('hidden');
+    schoolIntro.classList.toggle('hidden');
+  });
+});
+
+// Keep button functionality for accessibility
 expandButtons.forEach(button => {
-  button.addEventListener('click', () => {
+  button.addEventListener('click', (e) => {
+    e.stopPropagation();
     const schoolCard = button.closest('.display-card');
     const schoolContent = schoolCard.querySelector('.display-content');
     const schoolIntro = schoolCard.querySelector('.display-intro');
